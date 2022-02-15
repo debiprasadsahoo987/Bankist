@@ -1,2 +1,2 @@
 # Bankist
-bankist987.netlify.app
+https://bankist987.netlify.app
